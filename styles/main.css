@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  text-align: justify;
+}
+
+header {
+  width: 100%;
+  background-color: crimson;
+  padding: 1rem;
+}
+
+main  {
+  width: 100%;
+  padding: 1rem;
+}
+
+footer {
+  width: 100%;
+  background-color: lightgrey;
+  padding: 1rem;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
